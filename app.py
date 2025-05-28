@@ -178,7 +178,7 @@ def main():
 <strong> 투자 유치를 위해 VC 밋업/ 기관과의 OI를 위한 밋업이 필요한 기업을 추천 부탁드립니다. </strong> 
 <br><br><hr style='border-top: 1px solid #eee; margin-top:1em; margin-bottom:1em;'>
 ■ 일시: 2025년 6월 25일(수) 13:30 <br> 
-■ 주제: 국민의 삶의 질을 높이는 AI 사회서비스
+■ 주제: 국민의 삶의 질을 높이는 AI 사회서비스<br> 
 ■ 접수 기간: 6월 11일(금) 18시까지 <br> 
 ■ 상세 정보: <a href="https://invmeeting.streamlit.app/">링크</a><br>
 ■ 문의: mwbyun@mysc.co.kr.
