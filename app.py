@@ -98,7 +98,7 @@ def normalize_company_name(name):
 
 # --- Streamlit UI 구성 ---
 def main():
-    st.set_page_config(page_title="사회서비스 투자기업 추천", page_icon="🌱", layout="wide")
+    st.set_page_config(page_title="사회서비스 투자교류회 기업업 추천", page_icon="🌱", layout="wide")
 
     # Custom CSS
     st.markdown("""
